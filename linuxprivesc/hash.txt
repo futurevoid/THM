@@ -1,0 +1,3 @@
+root:$6$TUJ8LnbzM8$b4D6FxT/ee.mZAosrnZDAmcAS9YbopCbGt8HGLF3xjW5jI5Y00wmpMm0tjzCVDXPvfarVBxaWUf7Z1VzJsTxV1:0:0:root:/root:/bin/bash
+
+
